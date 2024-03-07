@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MemoryHosting/static/css/main.5749b591.css",
+    "main.js": "/MemoryHosting/static/js/main.8a5c881b.js",
+    "static/js/453.4930fcbe.chunk.js": "/MemoryHosting/static/js/453.4930fcbe.chunk.js",
+    "static/media/logoz2png.png": "/MemoryHosting/static/media/logoz2png.f0d99513df93dde1c4bf.png",
+    "index.html": "/MemoryHosting/index.html",
+    "main.5749b591.css.map": "/MemoryHosting/static/css/main.5749b591.css.map",
+    "main.8a5c881b.js.map": "/MemoryHosting/static/js/main.8a5c881b.js.map",
+    "453.4930fcbe.chunk.js.map": "/MemoryHosting/static/js/453.4930fcbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5749b591.css",
+    "static/js/main.8a5c881b.js"
+  ]
+}
